@@ -1,0 +1,2 @@
+Diagnosing and predicting the progression of dementia poses significant challenges, hindering effective care and support for affected individuals.
+In this study, we leverage machine learning techniques to analyze and forecast the health status of dementia patients. Our dataset encompasses a comprehensive array of attributes, including patient health metrics and demographic information, offering valuable insights into factors influencing health outcomes.
